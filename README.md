@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Ibaad Ahmed Ajaz 👋
 
-<!--
-**Ibaad-AhmedAjaz/Ibaad-AhmedAjaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- 🌱 I focus on AI/ML and Web Development.
+- 👨‍💻 I have experience in **React.js**, **Python**, **Django**, **JavaScript**, and version control systems like **Git**.
+- 💼 I have worked on projects like **Object Detection using YOLOv9**, **Sneaker Price Prediction**, **Harvestification - Classifying Agricultural Crops**, and more.
+- 💡 I enjoy working on **Machine Learning**, **Full-stack Web Development**, and continuously learning new technologies.
+  
+## 🛠️ Skills & Tools
+- **Languages**: Python, JavaScript, Java
+- **Frameworks/Libraries**: React.js, Django, Flask
+- **Databases**: SQLite, MongoDB
+- **Tools**: Git, GitHub, AWS, VS Code, PyTest
+- **Other Skills**: Machine Learning, API Integration
 
-Here are some ideas to get you started:
+## 📈 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ibaad-AhmedAjaz&show_icons=true&theme=radical)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Let's Connect!
+- [LinkedIn](www.linkedin.com/in/ibaadahmed077)
+
