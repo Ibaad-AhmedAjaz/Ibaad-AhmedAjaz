@@ -1,7 +1,7 @@
 # Hi, I'm Ibaad Ahmed Ajaz 👋
 
 ## 🚀 About Me
-- Working at Amazon Development Centre as an **AI Content Writer**.
+- Working at Amazon Development Centre as an **AI Content Analyst**.
 - 🌱 I focus on AI/ML.
 - 👨‍💻 I have experience in **Content Evaluation** **React.js**, **Python**, **Django**, **JavaScript**, and version control systems like **Git**.
 - 💼 I have worked on projects like **Object Detection using YOLOv9**, **Sneaker Price Prediction**, **Harvestification - Classifying Agricultural Crops**, and more.
