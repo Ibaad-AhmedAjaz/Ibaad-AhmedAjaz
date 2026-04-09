@@ -1,35 +1,48 @@
 # Hi, I'm Ibaad Ahmed Ajaz 👋
 
 ## 🚀 About Me
-- Working at Amazon Development Centre as an **AI Content Analyst**.
-- 🌱 I focus on AI/ML.
-- 👨‍💻 I have experience in **Content Evaluation** **React.js**, **Python**, **Django**, **JavaScript**, and version control systems like **Git**.
-- 💼 I have worked on projects like **Object Detection using YOLOv9**, **Sneaker Price Prediction**, **Harvestification - Classifying Agricultural Crops**, and more.
-- 💡 I enjoy working on **Machine Learning**, **Full-stack Web Development**, and continuously learning new technologies.
-  
-## 🛠️ Skills & Tools
-•	**Languages**: Java, C#, Python, Pearl, RubyonRails, GoLang, Scala, ASP.NET, HTML5, CSS3
+- 💻 Aspiring Software Developer with a focus on Full Stack Development  
+- 🌱 Currently improving my skills in Data Structures & Algorithms  
+- ⚡ I enjoy building real-world applications using React and Python  
+- 🤖 Also interested in Machine Learning and AI-based projects  
 
-•	**Frameworks**: Spring Boot, TensorFlow, NodeJS, ReactJS, Express.js, Redux, Bootstrap, Vue
+## 🛠️ Tech Stack
 
-•	**OS & Scripting**: Linux, Unix Shell, PowerShell, AJAX, CSS, jQuery, REST, PySpark
+**Languages:**  
+Python, JavaScript, SQL  
 
-•	**Monitoring & ITSM**: Splunk, Dynatrace, ServiceNow, Jira, WebForms, MVC, SOAP
+**Frontend:**  
+ReactJS, HTML, CSS  
 
-•	**Cloud**: AWS, Azure, GCP, AKS, WCF, Web API, Microsoft Stack, Rabbitmq, Redis
+**Backend:**  
+Flask, REST APIs  
 
-•	**DevOps & CI/CD**: Docker, GitHub, Jenkins, Kubernetes, Terraform, Scipy, Django
+**Libraries & Tools:**  
+Pandas, NumPy  
 
-•	**Tools & Platforms**: Kafka, TWS, Git, VSCode, Postman, Microservices, Pandas, Numpy
+**Tools & Platforms:**  
+Git, GitHub, Postman, Netlify  
 
-•	**Databases**: Oracle PL/SQL, IBM DB2, PostgreSQL, MS SQL Server, Lambda
+---
 
-•	**Other**: REST APIs, JSON, Confluence, Agile/Scrum, TDD, CI/CD, JSON Web Token
+## 📌 Featured Projects
 
+### 🌿 Harvestification – ML Based Crop & Disease Prediction
+- ML-powered web app for crop recommendation and disease detection  
+- Built using Flask and multiple ML models
+- 🔗 GitHub: https://github.com/Ibaad-AhmedAjaz/Harvestification-WebApp   
 
-## 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ibaad-AhmedAjaz&show_icons=true&theme=radical)
+### 👥 User Management Dashboard
+- React-based app with CRUD operations and API integration
+- 🌐 Live: https://ibaad-user-management-app.netlify.app/ 
+- 🔗 GitHub: https://github.com/Ibaad-AhmedAjaz/User-Management-Dashboard   
 
-## 📫 Let's Connect!
-- [LinkedIn](www.linkedin.com/in/ibaadahmed077)
+### 🛒 Shopping Cart Web App
+- Dynamic cart system with business logic and real-time UI updates
+- 🌐 Live: https://cart-app-shopping.netlify.app/  
+- 🔗 GitHub: https://github.com/Ibaad-AhmedAjaz/shopping-cart-app  
+---
 
+## 📫 Connect With Me
+- LinkedIn: https://www.linkedin.com/in/ibaadahmed077/  
+- GitHub: https://github.com/Ibaad-AhmedAjaz  
