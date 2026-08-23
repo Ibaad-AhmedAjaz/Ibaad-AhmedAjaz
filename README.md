@@ -16,7 +16,7 @@ I also use GitHub to maintain technical projects that strengthen my understandin
 ## Technical Skills
 
 **Support & Troubleshooting:**  
-Technical Support, Application Support, Product Support, Production Support, Incident Management, Root Cause Analysis, Issue Reproduction, Escalation Management
+Application Support, Product Support, Technical Support, Production Support, Incident Management, Root Cause Analysis, Issue Reproduction, Escalation Management
 
 **Technical:**  
 SQL, REST APIs, JSON, Splunk, Postman, Relational Databases, Linux Basics
