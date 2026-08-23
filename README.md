@@ -2,7 +2,7 @@
 
 ## About Me
 
-I work as an Support Analyst with experience supporting enterprise SaaS and HCM applications.
+I work as a Support Analyst with experience supporting enterprise SaaS and HCM applications.
 
 My work involves:
 - Investigating production issues using SQL, Splunk logs, REST APIs, and application data
