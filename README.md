@@ -1,48 +1,54 @@
 # Hi, I'm Ibaad Ahmed Ajaz 👋
 
-## 🚀 About Me
-- 💻 Aspiring Software Developer with a focus on Full Stack Development  
-- 🌱 Currently improving my skills in Data Structures & Algorithms  
-- ⚡ I enjoy building real-world applications using React and Python  
-- 🤖 Also interested in Machine Learning and AI-based projects  
+## About Me
 
-## 🛠️ Tech Stack
+I work in L2 Technical Support with experience supporting enterprise SaaS and HCM applications.
 
-**Languages:**  
-Python, JavaScript, SQL  
+My work involves:
+- Investigating production issues using SQL, Splunk logs, REST APIs, and application data
+- Performing root cause analysis and issue reproduction
+- Handling incident escalation and SLA-driven support workflows
+- Collaborating with Product and Engineering teams to resolve complex application issues
+- Documenting troubleshooting findings, RCA details, and resolution steps
 
-**Frontend:**  
-ReactJS, HTML, CSS  
+I also use GitHub to maintain technical projects that strengthen my understanding of APIs, databases, application behavior, deployment, and troubleshooting.
 
-**Backend:**  
-Flask, REST APIs  
+## Technical Skills
 
-**Libraries & Tools:**  
-Pandas, NumPy  
+**Support & Troubleshooting:**  
+Technical Support, Application Support, Product Support, Production Support, Incident Management, Root Cause Analysis, Issue Reproduction, Escalation Management
 
-**Tools & Platforms:**  
-Git, GitHub, Postman, Netlify  
+**Technical:**  
+SQL, REST APIs, JSON, Splunk, Postman, Relational Databases, Linux Basics
+
+**Tools:**  
+Jira, Confluence, Git, GitHub, Microsoft 365
+
+**Development Exposure:**  
+JavaScript, React, Node.js, Express.js, Python, Flask, C#, ASP.NET Core
 
 ---
 
-## 📌 Featured Projects
+## Selected Technical Projects
 
-### 🌿 Harvestification – ML Based Crop & Disease Prediction
-- ML-powered web app for crop recommendation and disease detection  
-- Built using Flask and multiple ML models
-- 🔗 GitHub: https://github.com/Ibaad-AhmedAjaz/Harvestification-WebApp   
+### MERN CRUD Application
+- Built a full-stack application using React, Node.js, Express.js, MongoDB, and REST APIs
+- Implemented CRUD operations and validated application data across frontend, API, and database layers
+- Deployed the application using AWS S3 and EC2
+- Worked through API connectivity, configuration, and frontend-backend integration issues
 
-### 👥 User Management Dashboard
-- React-based app with CRUD operations and API integration
-- 🌐 Live: https://ibaad-user-management-app.netlify.app/ 
-- 🔗 GitHub: https://github.com/Ibaad-AhmedAjaz/User-Management-Dashboard   
+### User Management Dashboard
+- Built a REST API-based user management application with CRUD operations
+- Implemented API integration, error handling, and data validation
+- Focused on reliable application behavior and handling edge cases
 
-### 🛒 Shopping Cart Web App
-- Dynamic cart system with business logic and real-time UI updates
-- 🌐 Live: https://cart-app-shopping.netlify.app/  
-- 🔗 GitHub: https://github.com/Ibaad-AhmedAjaz/shopping-cart-app  
+### YouTube Transcript Processing Tool
+- Built a Flask-based application using external APIs
+- Processed API responses and large text data
+- Implemented backend error handling and troubleshooting for API-related issues
+
 ---
 
-## 📫 Connect With Me
-- LinkedIn: https://www.linkedin.com/in/ibaadahmed077/  
-- GitHub: https://github.com/Ibaad-AhmedAjaz  
+## Connect With Me
+
+LinkedIn: https://www.linkedin.com/in/ibaadahmed077/
