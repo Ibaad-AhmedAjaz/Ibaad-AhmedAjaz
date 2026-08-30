@@ -2,52 +2,55 @@
 
 ## About Me
 
-I work as a Support Analyst with experience supporting enterprise SaaS and HCM applications.
+Data Analyst with a Computer Science background and hands-on experience across enterprise data analysis, AI quality operations, payroll, and workforce data.
 
-My work involves:
-- Investigating production issues using SQL, Splunk logs, REST APIs, and application data
-- Performing root cause analysis and issue reproduction
-- Handling incident escalation and SLA-driven support workflows
-- Collaborating with Product and Engineering teams to resolve complex application issues
-- Documenting troubleshooting findings, RCA details, and resolution steps
+My work and projects involve:
 
-I also use GitHub to maintain technical projects that strengthen my understanding of APIs, databases, application behavior, deployment, and troubleshooting.
+- Analyzing large structured datasets using SQL, Excel, Python, and BI tools
+- Building dashboards and KPI-driven reports using Power BI, Power Query, and DAX
+- Performing data cleaning, transformation, validation, reconciliation, and exploratory data analysis
+- Working with Pandas, NumPy, PySpark, Azure Databricks, BigQuery, and Snowflake
+- Identifying trends, anomalies, recurring patterns, and data-quality issues
+- Translating complex data into clear analytical insights for decision-making
 
 ## Technical Skills
 
-**Support & Troubleshooting:**  
-Application Support, Product Support, Technical Support, Production Support, Incident Management, Root Cause Analysis, Issue Reproduction, Escalation Management
+**Analytics & BI:**  
+SQL, Power BI, Excel, Tableau, Power Query, DAX, Qlik, Data Visualization, KPI Reporting
 
-**Technical:**  
-SQL, REST APIs, JSON, Splunk, Postman, Relational Databases, Linux Basics
+**Python & Analytics:**  
+Python, Pandas, NumPy, PySpark, Scikit-learn, Jupyter Notebook
 
-**Tools:**  
-Jira, Confluence, Git, GitHub, Microsoft 365
+**Data Platforms:**  
+Snowflake, Azure Databricks, GCP BigQuery, ETL/ELT, Data Pipelines, Data Warehousing, Data Modeling
 
-**Development Exposure:**  
-JavaScript, React, Node.js, Express.js, Python, Flask, C#, ASP.NET Core
+**Other Tools:**  
+REST APIs, JSON, Splunk, Postman, Git, GitHub, AWS, Azure, GCP
+
+---
+
+## Featured Data Projects
+
+### Hospital Insights Dashboard
+- Built an interactive Power BI dashboard for analyzing hospital operations, patient-related metrics, and KPIs
+- Used Power Query for data cleaning and transformation
+- Created DAX measures and interactive visualizations to identify trends and actionable insights
+
+### E-commerce Data Analysis
+- Analyzed large-scale e-commerce datasets using PySpark, Azure Databricks, BigQuery, Python, and SQL
+- Performed filtering, aggregation, transformation, and exploratory analysis
+- Evaluated sales trends, customer behavior, and product performance
+
+### Sneaker Price Forecasting
+- Analyzed historical sneaker pricing data using Python, Pandas, NumPy, and Scikit-learn
+- Performed EDA, feature engineering, visualization, and regression modeling
+- Built predictive models to identify pricing patterns and forecast sneaker prices
 
 ---
 
-## Selected Technical Projects
+## Current Focus
 
-### MERN CRUD Application
-- Built a full-stack application using React, Node.js, Express.js, MongoDB, and REST APIs
-- Implemented CRUD operations and validated application data across frontend, API, and database layers
-- Deployed the application using AWS S3 and EC2
-- Worked through API connectivity, configuration, and frontend-backend integration issues
-
-### User Management Dashboard
-- Built a REST API-based user management application with CRUD operations
-- Implemented API integration, error handling, and data validation
-- Focused on reliable application behavior and handling edge cases
-
-### YouTube Transcript Processing Tool
-- Built a Flask-based application using external APIs
-- Processed API responses and large text data
-- Implemented backend error handling and troubleshooting for API-related issues
-
----
+Currently exploring opportunities in **Data Analytics, Business Intelligence, Reporting Analytics, and Data Operations**.
 
 ## Connect With Me
 
