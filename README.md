@@ -1,57 +1,58 @@
-# Hi, I'm Ibaad Ahmed Ajaz 👋
+# Hi, I'm Ibaad Ahmed 👋
 
-## About Me
+Computer Science & Engineering graduate specializing in Artificial Intelligence and Machine Learning, with experience across enterprise application support and AI quality operations.
 
-Data Analyst with a Computer Science background and hands-on experience across enterprise data analysis, AI quality operations, payroll, and workforce data.
+I'm currently focused on building practical skills and projects across:
 
-My work and projects involve:
+- Python
+- Machine Learning
+- Generative AI
+- Retrieval-Augmented Generation (RAG)
+- SQL
+- Data Engineering
+- REST APIs
+- Backend Development
 
-- Analyzing large structured datasets using SQL, Excel, Python, and BI tools
-- Building dashboards and KPI-driven reports using Power BI, Power Query, and DAX
-- Performing data cleaning, transformation, validation, reconciliation, and exploratory data analysis
-- Working with Pandas, NumPy, PySpark, Azure Databricks, BigQuery, and Snowflake
-- Identifying trends, anomalies, recurring patterns, and data-quality issues
-- Translating complex data into clear analytical insights for decision-making
+## Currently Building
+
+### Enterprise AI Knowledge Assistant
+Python | FastAPI | RAG | LLMs | Embeddings | Vector Database | Docker
+
+Building a retrieval-augmented AI assistant for document ingestion, semantic retrieval, and source-grounded question answering.
+
+### End-to-End ML Prediction System
+Python | Pandas | Scikit-learn | FastAPI | MLflow | Docker
+
+Building an end-to-end machine learning system covering preprocessing, feature engineering, training, evaluation, experiment tracking, and model inference.
+
+### AI & Data Engineering Pipeline
+Python | SQL | PySpark | Databricks | Delta Lake | MLflow
+
+Building a data engineering pipeline using Medallion Architecture for ingestion, transformation, data-quality validation, and ML-ready datasets.
+
+## Existing Projects
+
+### TaskFlow
+Full-stack task management application built with ASP.NET Core, React, Entity Framework Core, SQLite, and REST APIs.
+
+### MERN CRUD Application
+Full-stack CRUD application built with MongoDB, Express.js, React, Node.js, and REST APIs.
 
 ## Technical Skills
 
-**Analytics & BI:**  
-SQL, Power BI, Excel, Tableau, Power Query, DAX, Qlik, Data Visualization, KPI Reporting
-
-**Python & Analytics:**  
-Python, Pandas, NumPy, PySpark, Scikit-learn, Jupyter Notebook
-
-**Data Platforms:**  
-Snowflake, Azure Databricks, GCP BigQuery, ETL/ELT, Data Pipelines, Data Warehousing, Data Modeling
-
-**Other Tools:**  
-REST APIs, JSON, Splunk, Postman, Git, GitHub, AWS, Azure, GCP
-
----
-
-## Featured Data Projects
-
-### Hospital Insights Dashboard
-- Built an interactive Power BI dashboard for analyzing hospital operations, patient-related metrics, and KPIs
-- Used Power Query for data cleaning and transformation
-- Created DAX measures and interactive visualizations to identify trends and actionable insights
-
-### E-commerce Data Analysis
-- Analyzed large-scale e-commerce datasets using PySpark, Azure Databricks, BigQuery, Python, and SQL
-- Performed filtering, aggregation, transformation, and exploratory analysis
-- Evaluated sales trends, customer behavior, and product performance
-
-### Sneaker Price Forecasting
-- Analyzed historical sneaker pricing data using Python, Pandas, NumPy, and Scikit-learn
-- Performed EDA, feature engineering, visualization, and regression modeling
-- Built predictive models to identify pricing patterns and forecast sneaker prices
-
----
+**Languages:** Python, SQL, C#, JavaScript  
+**AI/ML:** Machine Learning, Scikit-learn, Pandas, NumPy, TensorFlow/Keras  
+**Data:** PySpark, Databricks, BigQuery, SQL  
+**Backend:** FastAPI, ASP.NET Core, Node.js, Express.js, REST APIs  
+**Tools:** Git, GitHub, Docker, Postman, Splunk
 
 ## Current Focus
 
-Currently exploring opportunities in **Data Analytics, Business Intelligence, Reporting Analytics, and Data Operations**.
+Building production-style AI/ML and data engineering projects while pursuing opportunities in:
 
-## Connect With Me
-
-LinkedIn: https://www.linkedin.com/in/ibaadahmed077/
+- AI/ML Engineering
+- Applied AI
+- Machine Learning Engineering
+- Data & AI Engineering
+- Data Engineering
+- Python / Backend Engineering
